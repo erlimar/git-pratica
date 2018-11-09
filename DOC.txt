@@ -1,0 +1,16 @@
+Iniciando um novo projeto
+=========================
+
+Criamos um novo projeto e versionamos no Git.
+Devemos incluir somente arquivos de informação do projeto e que este se encontra em fase de desenvolvimento.
+Normalmente um arquivo LEIAME.TXT contendo as informações do projeto, e se for um projeto web, vale a pena colocar uma página INDEX.HTML informando que o sistema está em construção. Podemos entender esses arquivos de informação inicial, como sendo o mínimo para permitir uma publicação vazia.
+Mesmo sem ter nenhum código ou produto funcional, podemos assumir que este é o marco inicial, este é o KICK OFF, portanto, etiquetamos gerando uma tag "kick-off".
+Por enquanto, este é o gráfico histórico em nosso controle de versão:
+
+                              +-<tag: kick-off>
+                              |
+      under construction      |
+      ------------------      |
+               \              |
+                \             |
+=(master)========[commit: 1]==+
