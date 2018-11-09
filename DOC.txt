@@ -24,3 +24,9 @@ Por enquanto, este é o gráfico histórico em nosso controle de versão:
                \              |
                 \             |
 =(master)========[commit: 1]==+
+
+
+Uma nota sobre as branches e seus nomes
+=======================================
+
+Boa parte das pessoas que trabalham com Git estão acostumadas com as branches "master" e "develop" como sendo algo comum, e normalmente se associa isso a "master" como sendo código de produção, e "develop" como sendo codigo de desenvolvimento. Alguns acabam vinculando isso aos vários ambientes de implantação quando se está em uma fábrica de software. Por exemplo, "master" é o que está publicado em ambiente de produção e "develop" é o que está publicado em ambiente de desenvolvimento.
