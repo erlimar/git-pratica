@@ -37,6 +37,6 @@ implantação quando se está em uma fábrica de software. Por exemplo, "master"
  que está publicado em ambiente de produção e "develop" é o que está publicado
  em ambiente de desenvolvimento.
 
-Sendo assim, alguns podem chamar essas mesmas branches de "prd" e "dev", e se
-agregarmos o jargão "bisinês" (de business), podemos incluir o prefixo "bl" de
+Sendo assim, alguns podem chamar essas mesmas branches de "PRD" e "DEV", e se
+agregarmos o jargão "bisinês" (de business), podemos incluir o prefixo "BL" de
 "baseline", logo poderia ser "BL_PRD" e "BL_DEV".
