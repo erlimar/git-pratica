@@ -39,4 +39,4 @@ implantação quando se está em uma fábrica de software. Por exemplo, "master"
 
 Sendo assim, alguns podem chamar essas mesmas branches de "prd" e "dev", e se
 agregarmos o jargão "bisinês" (de business), podemos incluir o prefixo "bl" de
-"baseline", logo poderia ser "bl_prd" e "bl_dev".
+"baseline", logo poderia ser "BL_PRD" e "BL_DEV".
